@@ -48,17 +48,21 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">YiBo Zhang</h2>;
+  const three = <h3 className="big-heading">Now I'm exploring computer</h3>;
   const four = (
     <p>
-      I'm a software engineer based in Boston, MA specializing in building (and occasionally
-      designing) exceptional websites, applications, and everything in between.
+      I'm a student majoring in computer science and studying ZJGSU ( ZheJiang GongShang University
+      ). And I really want to be postgraduate student in the future. Now I'm exploring computer
+      which I'm interest in.
+      <br />
+      <br />
+      Very thanks to Brittany Chiang, my personal web is based on her design.
     </p>
   );
   const five = (
     <a href={`mailto:${email}`} className="email-link">
-      Get In Touch
+      Mail to me
     </a>
   );
 
