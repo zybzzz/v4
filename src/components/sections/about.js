@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Spring & SpringBoot', 'SpringCloud', 'C'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,22 +141,31 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
-
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              Nice to meet you! My name is YiBo Zhang, a student majoring in computer science and
+              studying{' '}
+              <a href="http://www.hzic.edu.cn/" target="_blank" rel="noreferrer">
+                ZJGSU
+              </a>{' '}
+              ( ZheJiang GongShang University ).
             </p>
-
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I'm keen to explore things which I interested in. In recently 2 years I am studying
+              Java language and try to build efficient java project for website server.
             </p>
-
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>
+              In this year, I'm addict to operating system and computer network, I want to learn
+              more knowledge to build operating system by myself.
+            </p>
+            <p>
+              In my study process I always wrote down my idea and released it to my{' '}
+              <a href="http://www.hzic.edu.cn/" target="_blank" rel="noreferrer">
+                {' '}
+                blog{' '}
+              </a>
+              . Welcome to see!
+            </p>
+            <p>Here are a few technologies I've been learning :</p>
           </div>
 
           <ul className="skills-list">
