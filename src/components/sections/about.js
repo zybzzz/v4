@@ -143,7 +143,7 @@ const About = () => {
           <div>
             <p>
               Nice to meet you! My name is YiBo Zhang, a student majoring in computer science and
-              studying{' '}
+              studying {/*TODO 修改url*/}
               <a href="http://www.hzic.edu.cn/" target="_blank" rel="noreferrer">
                 ZJGSU
               </a>{' '}

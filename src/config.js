@@ -3,6 +3,11 @@ module.exports = {
 
   socialMedia: [
     {
+      // TODO
+      name: 'Blog',
+      url: 'https://github.com/zybzzz',
+    },
+    {
       name: 'GitHub',
       url: 'https://github.com/zybzzz',
     },
@@ -38,8 +43,9 @@ module.exports = {
     //   url: '/#projects',
     // },
     {
-      name: 'Contact',
-      url: '/#contact',
+      name: 'Blog',
+      //TODO 重命名文件 设置锚点
+      url: '/#jobs',
     },
   ],
 
