@@ -260,6 +260,7 @@ const Menu = () => {
               </ol>
             )}
 
+            {/*日后添加简历至 /static/resume.pdf*/}
             <a href="/resume.pdf" className="resume-link">
               Resume
             </a>

@@ -5,7 +5,7 @@ module.exports = {
     {
       // TODO
       name: 'Blog',
-      url: 'https://github.com/zybzzz',
+      url: 'https://www.zybzzzblog.com',
     },
     {
       name: 'GitHub',

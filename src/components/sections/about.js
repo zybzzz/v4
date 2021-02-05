@@ -159,7 +159,7 @@ const About = () => {
             </p>
             <p>
               In my study process I always wrote down my idea and released it to my{' '}
-              <a href="http://www.hzic.edu.cn/" target="_blank" rel="noreferrer">
+              <a href="http://www.zybzzzblog.com" target="_blank" rel="noreferrer">
                 {' '}
                 blog{' '}
               </a>
