@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yibozhang.site/sitemap.xml
+Host: https://yibozhang.site
