@@ -56,7 +56,7 @@ const Contact = () => {
         help you ^_^ .
       </p>
 
-      <a className="email-link" href="http://www.hzic.edu.cn/">
+      <a className="email-link" href="http://www.zybzzzblog.com/">
         Go Blog
       </a>
     </StyledContactSection>

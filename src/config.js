@@ -44,8 +44,8 @@ module.exports = {
     // },
     {
       name: 'Blog',
-      //TODO 重命名文件 设置锚点
-      url: '/#jobs',
+      //TODO 不做修改 定位置原先的contact模块 需要时修改
+      url: '/#contact',
     },
   ],
 
