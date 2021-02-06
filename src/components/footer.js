@@ -121,7 +121,7 @@ const Footer = () => {
             </div>
           )}
         </a>
-        <a href="https://www.cloud.tencent.com">delivered by Tencent Cloud</a>
+        <a href="https://https://www.netlify.com/">delivered by Netlify</a>
       </StyledCredit>
     </StyledFooter>
   );
