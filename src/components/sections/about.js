@@ -143,27 +143,27 @@ const About = () => {
           <div>
             <p>
               Nice to meet you! My name is YiBo Zhang, a student majoring in computer science and
-              studying {/*TODO 修改url*/}
+              studying in{/*TODO 修改url*/}
               <a href="http://www.hzic.edu.cn/" target="_blank" rel="noreferrer">
                 ZJGSU
               </a>{' '}
               ( ZheJiang GongShang University ).
             </p>
             <p>
-              I'm keen to explore things which I interested in. In recently 2 years I am studying
+              I'm keen to explore things which I am interested in. In recent 2 years I have studied
               Java language and try to build efficient java project for website server.
             </p>
             <p>
-              In this year, I'm addict to operating system and computer network, I want to learn
+              In this year, I'm addicted to operating system and computer network, I want to learn
               more knowledge to build operating system by myself.
             </p>
             <p>
-              In my study process I always wrote down my idea and released it to my{' '}
+              In my study process I always wrote down my ideas and released it on my{' '}
               <a href="http://www.zybzzzblog.com" target="_blank" rel="noreferrer">
                 {' '}
                 blog{' '}
               </a>
-              . Welcome to see!
+              . Welcome to visit!
             </p>
             <p>Here are a few technologies I've been learning :</p>
           </div>

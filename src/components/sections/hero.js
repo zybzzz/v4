@@ -52,12 +52,12 @@ const Hero = () => {
   const three = <h3 className="big-heading">Now I'm exploring computer</h3>;
   const four = (
     <p>
-      I'm a student majoring in computer science and studying ZJGSU ( ZheJiang GongShang University
-      ). And I really want to be postgraduate student in the future. Now I'm exploring computer
-      which I'm interest in.
+      I'm a student majoring in computer science and studying in ZJGSU ( ZheJiang GongShang
+      University ). And I really want to be a postgraduate student in the future. Now I'm exploring
+      computer which I'm interested in.
       <br />
       <br />
-      Very thanks to Brittany Chiang, my personal web is based on her design.
+      Great thanks to Brittany Chiang, my web is based on her design.
     </p>
   );
   const five = (

@@ -52,7 +52,7 @@ const Contact = () => {
 
       <p>
         I'm still a rookie in learning knowledge and building project. But I always mark down my
-        idea and release it to my blog. So welcome to my blog and learn with me, maybe my idea will
+        idea and release it on my blog. So welcome to my blog and learn with me, maybe my ideas will
         help you ^_^ .
       </p>
 
